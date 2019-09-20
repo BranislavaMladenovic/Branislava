@@ -107,11 +107,13 @@ span {
 .intro {
   width: 50%;
   margin: auto;
+  text-align:center;
 }
 .intro1 {
-  width: 80%;
+  width: 50%;
   margin: auto;
   padding-top: 30px;
+  text-align:center;
 }
 
 .contact-message {
@@ -227,4 +229,14 @@ a:hover {
  /* border-radius: 100%;*/
   width: 15%;
   
+}
+.logo{
+  width: 3%;
+ /* color:#11999E;*/
+ /* width:180px;*/
+ /* height: 40px;*/
+  border-radius: 20% 0 20% 0;
+  border: 4px double #66BFBF;
+  align-content: center;
+/* border: 4px solid lightblue;*/
 }
